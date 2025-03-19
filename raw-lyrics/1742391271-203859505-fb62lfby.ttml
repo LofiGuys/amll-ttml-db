@@ -1,0 +1,146 @@
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:amll="http://www.example.com/ns/amll" xmlns:itunes="http://music.apple.com/lyric-ttml-internal"><head><metadata><ttm:agent type="person" xml:id="v1"/><ttm:agent type="other" xml:id="v2"/></metadata></head><body dur="05:21.679"><div begin="00:04.200" end="05:21.679"><p begin="00:04.200" end="00:07.000" ttm:agent="v2" itunes:key="L1"><span begin="00:04.594" end="00:07.181">「昨日人を殺したんだ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「昨天我杀死了人」
+</span></p><p begin="00:07.000" end="00:09.732" ttm:agent="v1" itunes:key="L2"><span begin="00:07.181" end="00:09.732">君はそう言っていた
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你如此说着
+</span></p><p begin="00:09.732" end="00:14.149" ttm:agent="v1" itunes:key="L3"><span begin="00:09.732" end="00:14.149">梅雨時ずぶ濡れのまんま部屋の前で泣いていた
+</span><span ttm:role="x-translation" xml:lang="zh-CN">带着因梅雨时节而湿透的的身子在屋前哭泣
+</span></p><p begin="00:14.973" end="00:17.450" ttm:agent="v1" itunes:key="L4"><span begin="00:14.973" end="00:17.843">夏が始まったばかりというのに
+</span><span ttm:role="x-translation" xml:lang="zh-CN">明明夏天才刚刚开始
+</span></p><p begin="00:17.450" end="00:20.480" ttm:agent="v1" itunes:key="L5"><span begin="00:17.843" end="00:20.480">君はひどく震えていた
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你却不停颤抖着
+</span></p><p begin="00:20.480" end="00:25.334" ttm:agent="v1" itunes:key="L6"><span begin="00:20.480" end="00:22.569">そんな話で始まる</span><span begin="00:22.569" end="00:25.334">あの夏の日の記憶だ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">那个夏日的记忆 就从这句话开始
+</span></p><p begin="00:50.077" end="00:54.656" ttm:agent="v2" itunes:key="L7"><span begin="00:50.077" end="00:54.656">「殺したのは隣の席のいつも虐めてくるアイツ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「被杀掉的是在我邻桌的 一直欺负我的家伙」
+</span></p><p begin="00:54.656" end="00:57.825" ttm:agent="v2" itunes:key="L8"><span begin="00:54.656" end="00:57.825">「もう嫌になって肩を突き飛ばして」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「我难以忍受推搡了他的肩膀」
+</span></p><p begin="00:57.825" end="01:00.494" ttm:agent="v2" itunes:key="L9"><span begin="00:57.825" end="01:00.494">「打ち所が悪かったんだ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「似乎就砸到了不好的地方」
+</span></p><p begin="01:00.494" end="01:06.131" ttm:agent="v2" itunes:key="L10"><span begin="01:00.494" end="01:06.131">「もうここには居られないと思うしどっか遠いとこで死んでくるよ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「反正无法继续呆在这里 不如去遥远的地方死去」
+</span></p><p begin="01:06.131" end="01:08.315" ttm:agent="v1" itunes:key="L11"><span begin="01:06.131" end="01:08.315">そんな君に僕は言った
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你如此对着我说着
+</span></p><p begin="01:08.315" end="01:11.035" ttm:agent="v1" itunes:key="L12"><span begin="01:08.315" end="01:11.035">「それじゃ僕も連れてって」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「不如也带上我」
+</span></p><p begin="01:11.035" end="01:13.687" ttm:agent="v1" itunes:key="L13"><span begin="01:11.035" end="01:13.687">財布を持ってナイフを持って
+</span><span ttm:role="x-translation" xml:lang="zh-CN">带上钱包与小刀
+</span></p><p begin="01:13.687" end="01:16.700" ttm:agent="v1" itunes:key="L14"><span begin="01:13.687" end="01:16.700">携帯ゲームもカバンに詰めて
+</span><span ttm:role="x-translation" xml:lang="zh-CN">将手机与游戏一并装进包里
+</span></p><p begin="01:16.700" end="01:21.795" ttm:agent="v1" itunes:key="L15"><span begin="01:16.700" end="00:00.000">いらないものは全部</span><span begin="00:00.000" end="01:21.795">壊していこう
+</span><span ttm:role="x-translation" xml:lang="zh-CN">不需要的东西就都毁掉吧
+</span></p><p begin="01:21.795" end="01:27.200" ttm:agent="v1" itunes:key="L16"><span begin="00:00.000" end="00:00.000">あの写真も</span><span begin="00:00.000" end="00:00.000">あの日記も</span><span begin="00:00.000" end="00:00.000">今となっちゃもう</span><span begin="00:00.000" end="01:27.200">いらないさ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">那个照片与日记 事到如今已是不再需要
+</span></p><p begin="01:27.200" end="01:38.095" ttm:agent="v1" itunes:key="L17"><span begin="01:27.200" end="01:29.023">人殺しと</span><span begin="01:29.023" end="01:30.980">ダメ人間の</span><span begin="01:30.980" end="01:35.200">君と僕の</span><span begin="01:35.200" end="01:36.558">旅だ </span><span begin="01:36.558" end="01:38.095">Ah
+</span><span ttm:role="x-translation" xml:lang="zh-CN">杀人犯与废物 你与我的旅途 Ah
+</span></p><p begin="01:38.095" end="01:40.322" ttm:agent="v1" itunes:key="L18"><span begin="01:38.095" end="01:40.322">そして僕らは逃げ出した
+</span><span ttm:role="x-translation" xml:lang="zh-CN">然后我们就开始逃跑
+</span></p><p begin="01:40.322" end="01:43.081" ttm:agent="v1" itunes:key="L19"><span begin="01:40.322" end="01:43.081">この狭い狭いこの世界から
+</span><span ttm:role="x-translation" xml:lang="zh-CN">从这个狭隘的世界逃出
+</span></p><p begin="01:43.081" end="01:48.661" ttm:agent="v1" itunes:key="L20"><span begin="01:43.081" end="01:44.003">家族も</span><span begin="01:44.003" end="01:44.829">クラスの奴らも</span><span begin="01:44.829" end="01:45.692">何もかも</span><span begin="01:45.692" end="01:46.163">全部捨てて</span><span begin="01:46.163" end="01:48.661">君と二人で
+</span><span ttm:role="x-translation" xml:lang="zh-CN">无论家庭还是班级 尽数舍弃 仅剩你我
+</span></p><p begin="01:48.661" end="01:53.271" ttm:agent="v1" itunes:key="L21"><span begin="01:48.661" end="01:53.271">遠い遠い誰もいない場所で二人で死のうよ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">我们去到遥远并空无一人的地方死去吧
+</span></p><p begin="01:53.271" end="01:55.887" ttm:agent="v1" itunes:key="L22"><span begin="01:53.271" end="01:55.887">もうこの世界に価値などないよ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">这个世界已经毫无价值
+</span></p><p begin="01:55.887" end="01:59.420" ttm:agent="v1" itunes:key="L23"><span begin="01:55.887" end="01:59.420">人殺しなんてそこら中湧いてるじゃんか
+</span><span ttm:role="x-translation" xml:lang="zh-CN">杀人犯的想法不时浮现脑海
+</span></p><p begin="01:59.420" end="02:01.419" ttm:agent="v1" itunes:key="L24"><span begin="01:59.420" end="02:00.550">君は何も</span><span begin="02:00.550" end="02:01.419">悪くないよ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">但你没有任何过错 
+</span></p><p begin="02:01.419" end="02:04.249" ttm:agent="v1" itunes:key="L25"><span begin="02:01.419" end="02:03.126">君は何も</span><span begin="02:03.126" end="02:04.249">悪くないよ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你没有任何过错啊
+</span></p><p begin="02:20.390" end="02:25.298" ttm:agent="v1" itunes:key="L26"><span begin="02:20.390" end="02:25.298">結局僕ら誰にも愛されたことなど無かったんだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">到头来我们从未被他人爱过
+</span></p><p begin="02:25.298" end="02:31.297" ttm:agent="v1" itunes:key="L27"><span begin="02:25.298" end="02:31.297">そんな嫌な共通点で僕らは簡単に信じあってきた
+</span><span ttm:role="x-translation" xml:lang="zh-CN">只因这么厌恶的共通点 我们就简单的相信了对方
+</span></p><p begin="02:31.297" end="02:36.572" ttm:agent="v1" itunes:key="L28"><span begin="02:31.297" end="02:36.572">君の手を握った時微かな震えも既に無くなっていて
+</span><span ttm:role="x-translation" xml:lang="zh-CN">但我握着你手的时候 你就已经不再颤抖
+</span></p><p begin="02:36.572" end="02:41.684" ttm:agent="v1" itunes:key="L29"><span begin="02:36.572" end="00:00.000">誰にも縛られないで二人</span><span begin="00:00.000" end="02:41.684">線路の上を歩いた
+</span><span ttm:role="x-translation" xml:lang="zh-CN">没被他人所束缚 我与你单独在铁道上走着
+</span></p><p begin="02:41.684" end="02:44.531" ttm:agent="v1" itunes:key="L30"><span begin="00:00.000" end="00:00.000">金を盗んで</span><span begin="00:00.000" end="02:44.531">二人で逃げて
+</span><span ttm:role="x-translation" xml:lang="zh-CN">窃取金钱一起逃走
+</span></p><p begin="02:44.531" end="02:47.095" ttm:agent="v1" itunes:key="L31"><span begin="02:44.531" end="02:47.095">どこにも行ける気がしたんだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">总觉得哪儿都能去往
+</span></p><p begin="02:47.095" end="02:52.470" ttm:agent="v1" itunes:key="L32"><span begin="02:47.095" end="02:50.463">今更怖いものは</span><span begin="02:50.463" end="02:52.470">僕らにはなかったんだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">事到如今我们已然没有畏惧的事物
+</span></p><p begin="02:52.470" end="02:55.275" ttm:agent="v1" itunes:key="L33"><span begin="02:52.470" end="00:00.000">額の汗も</span><span begin="00:00.000" end="02:55.275">落ちたメガネも
+</span><span ttm:role="x-translation" xml:lang="zh-CN">额头的汗滴也罢 掉落的眼镜也好
+</span></p><p begin="02:55.275" end="02:57.338" ttm:agent="v2" itunes:key="L34"><span begin="02:55.275" end="02:56.976">「今となっちゃどうで</span><span begin="02:56.976" end="02:57.338">もいいさ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「事到如今怎样都好」
+</span></p><p begin="02:57.338" end="03:08.910" ttm:agent="v2" itunes:key="L35"><span begin="02:57.338" end="02:59.551">「あぶれ者の</span><span begin="02:59.551" end="03:01.783">小さな</span><span begin="03:01.783" end="03:05.665">逃避行の</span><span begin="03:05.665" end="03:07.101">旅だ</span><span begin="03:07.101" end="03:08.910"> Ah」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「这也只是一无所成者的小小逃避旅行 Ah」
+</span></p><p begin="03:08.910" end="03:14.082" ttm:agent="v1" itunes:key="L36"><span begin="03:08.910" end="03:10.950">いつか夢見た優しくて</span><span begin="03:10.950" end="03:14.082">誰にも好かれる主人公なら
+</span><span ttm:role="x-translation" xml:lang="zh-CN">倘若是梦中温柔待人 谁都倾慕的主人公的话
+</span></p><p begin="03:14.082" end="03:19.094" ttm:agent="v1" itunes:key="L37"><span begin="03:14.082" end="03:19.094">汚くなった僕たちも見捨てずにちゃんと救ってくれるのかな？
+</span><span ttm:role="x-translation" xml:lang="zh-CN">见到肮脏的我们 也会不再无视予以拯救吗
+</span></p><p begin="03:19.094" end="03:21.161" ttm:agent="v2" itunes:key="L38"><span begin="03:19.094" end="03:21.161">「そんな夢なら捨てたよ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「这样的梦我早就抛弃了」
+</span></p><p begin="03:21.161" end="03:23.238" ttm:agent="v2" itunes:key="L39"><span begin="03:21.161" end="03:23.238">「だって現実を見ろよ？」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「不如正视现实？」
+</span></p><p begin="03:23.238" end="03:30.095" ttm:agent="v2" itunes:key="L40"><span begin="03:23.238" end="03:24.269">「シアワセ</span><span begin="03:24.269" end="03:30.095">の四文字なんてなかった今までの人生で思い知ったじゃないか」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「幸福人生这四个字根本就不存在 你早已心知肚明不是吗」
+</span></p><p begin="03:30.095" end="03:36.079" ttm:agent="v2" itunes:key="L41"><span begin="03:30.095" end="03:32.692">「自分は何も悪くねえと</span><span begin="03:32.692" end="03:36.079">誰もがきっと思ってる」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「自己毫无过错 这是谁都会如此想吧」
+</span></p><p begin="03:51.498" end="03:53.679" ttm:agent="v1" itunes:key="L42"><span begin="03:51.498" end="03:53.679">あても無く彷徨う蝉の群れに
+</span><span ttm:role="x-translation" xml:lang="zh-CN">漫无目的彷徨的蝉群
+</span></p><p begin="03:53.679" end="03:56.421" ttm:agent="v1" itunes:key="L43"><span begin="03:53.679" end="03:56.421">水も無くなり揺れ出す視界に
+</span><span ttm:role="x-translation" xml:lang="zh-CN">在水面静止的视野内
+</span></p><p begin="03:56.421" end="03:59.061" ttm:agent="v1" itunes:key="L44"><span begin="03:56.421" end="03:59.061">迫り狂う鬼たちの怒号に
+</span><span ttm:role="x-translation" xml:lang="zh-CN">传来如癫狂鬼怪的怒号
+</span></p><p begin="03:59.061" end="04:01.026" ttm:agent="v1" itunes:key="L45"><span begin="03:59.100" end="04:01.026">バカみたいにはしゃぎあい
+</span><span ttm:role="x-translation" xml:lang="zh-CN">如笨蛋一般欢闹
+</span></p><p begin="04:01.026" end="04:03.278" ttm:agent="v1" itunes:key="L46"><span begin="04:01.026" end="04:03.423">ふと君はナイフをとった
+</span><span ttm:role="x-translation" xml:lang="zh-CN">突然你拿出小刀
+</span></p><p begin="04:03.278" end="04:07.651" ttm:agent="v2" itunes:key="L47"><span begin="04:03.278" end="04:04.933">「君が今までそばにい</span><span begin="04:04.933" end="04:05.794">たからここまで</span><span begin="04:05.794" end="04:07.651">これたんだ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「正因为有你我才能撑到现在」
+</span></p><p begin="04:07.651" end="04:09.145" ttm:agent="v2" itunes:key="L48"><span begin="04:07.651" end="04:09.145">「だからもういいよ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「所以已经够了」
+</span></p><p begin="04:09.145" end="04:09.566" ttm:agent="v2" itunes:key="L49"><span begin="04:09.145" end="04:09.360">「もう</span><span begin="04:09.360" end="04:09.566">いいよ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「已经足够了」
+</span></p><p begin="04:09.566" end="04:12.500" ttm:agent="v2" itunes:key="L50"><span begin="04:09.566" end="04:12.020">「死ぬのは私一人で</span><span begin="04:12.020" end="04:12.500">いいよ」
+</span><span ttm:role="x-translation" xml:lang="zh-CN">「死的人只有我一人就行」
+</span></p><p begin="04:22.195" end="04:24.159" ttm:agent="v1" itunes:key="L51"><span begin="04:22.195" end="04:24.159">そして君は首を切った
+</span><span ttm:role="x-translation" xml:lang="zh-CN">然后你用小刀划向脖颈
+</span></p><p begin="04:24.159" end="04:27.107" ttm:agent="v1" itunes:key="L52"><span begin="04:24.159" end="04:27.107">まるで何かの映画のワンシーンだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">就如电影里的场景
+</span></p><p begin="04:27.107" end="04:29.723" ttm:agent="v1" itunes:key="L53"><span begin="04:27.107" end="04:29.723">白昼夢を見ている気がした
+</span><span ttm:role="x-translation" xml:lang="zh-CN">就如做了一场白日梦般
+</span></p><p begin="04:29.723" end="04:32.558" ttm:agent="v1" itunes:key="L54"><span begin="04:29.723" end="04:32.558">気づけば僕は捕まって
+</span><span ttm:role="x-translation" xml:lang="zh-CN">缓过神来 我已经被抓到了
+</span></p><p begin="04:32.558" end="04:35.325" ttm:agent="v1" itunes:key="L55"><span begin="04:32.558" end="04:35.325">君がどこにも見つからなくって
+</span><span ttm:role="x-translation" xml:lang="zh-CN">哪儿都见不到你的身影
+</span></p><p begin="04:35.325" end="04:38.270" ttm:agent="v1" itunes:key="L56"><span begin="04:35.325" end="04:38.270">君だけがどこにもいなくって
+</span><span ttm:role="x-translation" xml:lang="zh-CN">只有你不知去哪了
+</span></p><p begin="04:38.270" end="04:40.026" ttm:agent="v1" itunes:key="L57"><span begin="04:38.270" end="04:38.686">そして</span><span begin="04:38.686" end="04:40.026">時は過ぎていった
+</span><span ttm:role="x-translation" xml:lang="zh-CN">于是时间快速流逝
+</span></p><p begin="04:40.026" end="04:42.938" ttm:agent="v1" itunes:key="L58"><span begin="04:40.026" end="04:41.678">ただ暑い暑い日が</span><span begin="04:41.678" end="04:42.938">過ぎてった
+</span><span ttm:role="x-translation" xml:lang="zh-CN">度过了一次次酷暑
+</span></p><p begin="04:42.938" end="04:45.483" ttm:agent="v1" itunes:key="L59"><span begin="04:42.938" end="04:43.927">家族も</span><span begin="04:43.927" end="04:45.220">クラスの奴ら</span><span begin="04:45.220" end="04:45.483">もいるのに
+</span><span ttm:role="x-translation" xml:lang="zh-CN">明明家人与班上的家伙都在
+</span></p><p begin="04:45.483" end="04:48.927" ttm:agent="v1" itunes:key="L60"><span begin="04:45.483" end="04:47.068">なぜか君だ</span><span begin="04:47.068" end="04:48.927">けはどこにもいない
+</span><span ttm:role="x-translation" xml:lang="zh-CN">只有你不知去哪了
+</span></p><p begin="04:48.927" end="04:50.861" ttm:agent="v1" itunes:key="L61"><span begin="04:48.927" end="04:49.990">あの夏の日</span><span begin="04:49.990" end="04:50.861">を思い出す
+</span><span ttm:role="x-translation" xml:lang="zh-CN">我突然想起了那个夏天
+</span></p><p begin="04:50.861" end="04:53.949" ttm:agent="v1" itunes:key="L62"><span begin="04:50.861" end="04:51.779">僕は今も</span><span begin="04:51.779" end="04:53.949">今でも歌ってる
+</span><span ttm:role="x-translation" xml:lang="zh-CN">我至今仍继续歌唱着
+</span></p><p begin="04:53.949" end="04:56.463" ttm:agent="v1" itunes:key="L63"><span begin="04:53.949" end="04:55.021">君をずっと</span><span begin="04:55.021" end="04:56.463">探しているんだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">依然在寻找着你
+</span></p><p begin="04:56.463" end="04:59.396" ttm:agent="v1" itunes:key="L64"><span begin="04:56.463" end="04:57.753">君に言いたい</span><span begin="04:57.753" end="04:59.396">ことがあるんだ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">我有想向你倾诉的事情
+</span></p><p begin="04:59.396" end="05:01.518" ttm:agent="v1" itunes:key="L65"><span begin="04:59.396" end="05:00.016">九月の終わりに</span><span begin="05:00.016" end="05:01.518">くしゃみして
+</span><span ttm:role="x-translation" xml:lang="zh-CN">九月末就如喷嚏快速离我而去
+</span></p><p begin="05:01.518" end="05:04.192" ttm:agent="v1" itunes:key="L66"><span begin="05:01.518" end="05:04.192">六月の匂いを繰り返す
+</span><span ttm:role="x-translation" xml:lang="zh-CN">而六月的气息萦绕反复
+</span></p><p begin="05:04.192" end="05:05.629" ttm:agent="v1" itunes:key="L67"><span begin="05:04.192" end="05:05.629">君の笑顔は
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你的笑容
+</span></p><p begin="05:05.629" end="05:09.840" ttm:agent="v1" itunes:key="L68"><span begin="05:05.629" end="05:07.455">君の無邪気さは</span><span begin="05:07.455" end="05:09.840">頭の中を飽和している
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你的天真无邪在我脑中已然饱和
+</span></p><p begin="05:09.840" end="05:12.626" ttm:agent="v1" itunes:key="L69"><span begin="05:09.840" end="05:12.626">誰も何も悪くないよ
+</span><span ttm:role="x-translation" xml:lang="zh-CN">谁都没有任何过错
+</span></p><p begin="05:12.626" end="05:15.467" ttm:agent="v1" itunes:key="L70"><span begin="05:12.626" end="05:13.229">君は何も</span><span begin="05:13.229" end="05:15.467">悪くはないから
+</span><span ttm:role="x-translation" xml:lang="zh-CN">所以你也没有任何过错
+</span></p><p begin="05:15.467" end="05:17.832" ttm:agent="v1" itunes:key="L71"><span begin="05:15.467" end="05:17.832">もういいよ投げ出してしまおう
+</span><span ttm:role="x-translation" xml:lang="zh-CN">已经足够了 将一切抛之脑后吧
+</span></p><p begin="05:17.832" end="05:20.116" ttm:agent="v1" itunes:key="L72"><span begin="05:17.832" end="05:19.289">そう言って</span><span begin="05:19.289" end="05:20.116">欲しかったのだろう？
+</span><span ttm:role="x-translation" xml:lang="zh-CN">你是想我对你说这句话的？
+</span></p><p begin="05:20.116" end="05:21.679" ttm:agent="v1" itunes:key="L73"><span begin="05:20.116" end="05:21.679">なあ？
+</span><span ttm:role="x-translation" xml:lang="zh-CN">对吧？</span></p></div></body></tt>
